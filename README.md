@@ -1,58 +1,79 @@
+<div align="center">
+
 # Mohamed Ahmed Kamel
 
 ### Full-Stack Developer · Mido / 7mody
 
 Building digital products across web, mobile, backend & AI.
 
-[Portfolio](https://mido-portfolio-theta.vercel.app/) · [GitHub](https://github.com/7mody2)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://mido-portfolio-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yux/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/7mody2)
+
+</div>
 
 ---
 
-## About
+## ABOUT
 
-I'm Mohamed Ahmed Kamel — known as Mido (7mody), a Full-Stack Developer and Computer & Artificial Intelligence student at Sphinx University. I design and build complete digital products: web applications, cross-platform mobile apps, backend and API systems, databases, and AI-powered automation. One developer, the whole system — from interface to infrastructure, idea to deployed product.
-
-## What I Build
-
-**Web Applications**
-Modern interfaces and full-stack products with React, Next.js and TypeScript.
-
-**Mobile Applications**
-Cross-platform Android and iOS applications with React Native.
-
-**Backend & APIs**
-REST APIs, server-side systems, databases and application logic.
-
-**AI & Automation**
-LLM-powered tools, agents and workflow automation.
+I'm Mohamed Ahmed Kamel, known as Mido / 7mody — a Full-Stack Developer and Computer & Artificial Intelligence student at Sphinx University. I build complete digital products across web, mobile, backend, APIs, databases and AI / automation: one developer, the whole system, from interface to infrastructure and idea to deployed product.
 
 ---
 
-## Stack
+## WHAT I BUILD
 
-**Frontend**
-React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
-
-**Backend**
-Node.js · Express.js · Python · REST APIs
-
-**Data**
-MongoDB · SQL · Supabase
-
-**Mobile**
-React Native
-
-**AI / Automation**
-LLM integrations · Discord.js · Python
-
-**Tools**
-Git · GitHub
+<table>
+  <tr>
+    <td>
+      <b>WEB APPLICATIONS</b>
+      <br><br>
+      Modern full-stack web products using React, Next.js and TypeScript.
+    </td>
+    <td>
+      <b>MOBILE APPLICATIONS</b>
+      <br><br>
+      Android and iOS applications with React Native.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>BACKEND &amp; APIs</b>
+      <br><br>
+      REST APIs, server-side systems, databases and application logic.
+    </td>
+    <td>
+      <b>AI &amp; AUTOMATION</b>
+      <br><br>
+      LLM-powered tools, agents and workflow automation.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Selected Work
+## STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js" />
+<br>
+<img src="https://skillicons.dev/icons?i=express,python,mongodb,supabase,git,github&theme=dark" alt="Express, Python, MongoDB, Supabase, Git, GitHub" />
+
+<br>
+
+Also working with: React Native · SQL · Discord.js · REST APIs
+
+</div>
+
+---
+
+## SELECTED WORK
 
 ### YallaStudy
+*Student Platform · Web + Mobile*
+
 Student platform for organizing lectures, schedules, study resources and academic life.
 
 `React · React Native · TypeScript · Node.js · Supabase`
@@ -62,6 +83,8 @@ Student platform for organizing lectures, schedules, study resources and academi
 ---
 
 ### Maison Velar
+*Luxury Fragrance · E-commerce Experience*
+
 Luxury fragrance brand website and digital commerce experience.
 
 `Next.js · React · TypeScript · Tailwind CSS`
@@ -71,6 +94,8 @@ Luxury fragrance brand website and digital commerce experience.
 ---
 
 ### YunexAgent
+*AI Discord Agent*
+
 AI-powered Discord agent capable of interpreting user requests and executing actions inside Discord servers.
 
 `Python · Discord.js · Node.js · MongoDB`
@@ -79,22 +104,29 @@ AI-powered Discord agent capable of interpreting user requests and executing act
 
 ---
 
-## Currently
+## CURRENTLY
 
-Second-year Computer & AI student at Sphinx University, building freelance and independent products across web, mobile, backend and AI — currently going deeper into backend architecture and production AI systems.
-
----
-
-## Connect
-
-- Portfolio — https://mido-portfolio-theta.vercel.app/
-- GitHub — https://github.com/7mody2
-- LinkedIn — https://www.linkedin.com/in/mohamed-yux/
-- Instagram — https://www.instagram.com/mi.ddo1/
-- Email — midoahmed2460@gmail.com
-- WhatsApp — https://wa.link/xlwljv
-- Discord — https://discord.com/users/483507680179126272
+Second-year Computer & AI student at Sphinx University. Building freelance and independent products across web, mobile, backend and AI — currently going deeper into backend architecture and production AI systems.
 
 ---
+
+<div align="center">
+
+## CONNECT
+
+### LET'S BUILD SOMETHING.
+
+If you want to work together, discuss a project, or just connect:
+
+[Portfolio](https://mido-portfolio-theta.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/mohamed-yux/) ·
+[Instagram](https://www.instagram.com/mi.ddo1/) ·
+[Email](mailto:midoahmed2460@gmail.com) ·
+[WhatsApp](https://wa.link/xlwljv) ·
+[Discord](https://discord.com/users/483507680179126272)
+
+<br>
 
 Ship useful software, one product at a time.
+
+</div>
